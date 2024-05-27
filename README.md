@@ -1,6 +1,7 @@
-Project Software Engginer 
+#Project Software Engginer 
+== On Progress ==
 
-
+## Latar Belakang
 Latar belakang aplikasi ini adalah kebutuhan akan efisiensi dalam mengatur jadwal, terutama ketika
 melibatkan dua atau lebih orang yang harus mencapai kesepakatan bersama. Kami menyadari bahwa dalam
 banyak situasi, seperti rapat bisnis, konsultasi medis, atau pertemuan kelompok, sulit untuk menemukan waktu
@@ -19,9 +20,19 @@ Dengan demikian, aplikasi ini diharapkan dapat meningkatkan efisiensi,
 menghemat waktu, dan mengurangi frustrasi yang terkait dengan proses
 pengaturan jadwal yang kompleks.
 
-Developer Tim
-Adnan Mursyid,
-Muhammad Gibaltar Putra Wibowo,
-Dimas Sebastian Adi,
-Katrina Wijaya,
-Katherine Vanessa,
+##Pages
+- Registeration dan login
+- To-do list
+- Calendar
+- Match schedule
+- Friend list
+- Profile
+
+## Instalation
+1. Clone repository https://github.com/Katrina3112/ONTime.git
+2. Buka project yang di clone menggunakan Android Studio
+
+## Demo
+Untuk melihat demo aplikasi silahkan klik link berikut:
+[link]
+
