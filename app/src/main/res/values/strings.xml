@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">On Time</string>
+    <string name="title_activity_login">Login</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="default_web_client_id">172608162885-ilch187d9sm2vs19sjbheuh8fcs7t0ac.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
