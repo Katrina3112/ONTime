@@ -20,7 +20,7 @@ Dengan demikian, aplikasi ini diharapkan dapat meningkatkan efisiensi,
 menghemat waktu, dan mengurangi frustrasi yang terkait dengan proses
 pengaturan jadwal yang kompleks.
 
-##Pages
+## Pages
 - Registeration dan login
 - To-do list
 - Calendar
