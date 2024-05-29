@@ -28,7 +28,7 @@ pengaturan jadwal yang kompleks.
 - Friend list
 - Profile
 
-## Instalation
+## Installation
 1. Clone repository https://github.com/Katrina3112/ONTime.git
 2. Buka project yang di clone menggunakan Android Studio
 
